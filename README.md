@@ -15,6 +15,11 @@ To run code on your computer, following command in terminal
 
 python app.py
 
+![form](https://github.com/user-attachments/assets/84423bcd-c423-4631-989a-13ac7050f8ec)
+![prediction](https://github.com/user-attachments/assets/552daad6-750f-42ce-9258-c9ad7212d34a)
+
+
+
 
 
 
